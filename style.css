@@ -1,0 +1,115 @@
+body {
+    color: white;
+    background: black;
+}
+
+header {
+
+}
+
+header {
+    border: solid 2px white;
+}
+
+body {
+    color: white;
+    background: black;
+    margin: 0px;
+}
+
+header {
+    border-bottom: solid 2px rgb(42, 122, 228);
+    padding: 20px;
+    font-size: 32px;
+    color: rgb(188, 16, 10);
+}
+
+section {
+    background: rgb(79, 13, 1);
+}
+
+section {
+    background: rgb(152, 11, 1);
+    padding-bottom: 80px;
+    padding-top: 80px;
+}
+
+section {
+    background: rgb(131, 6, 1);
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+}
+
+section {
+    background: rgb(140, 2, 30);
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+}
+
+div {
+    margin-right: 20px;
+}
+
+<section>
+    <div class="chamada-texto">
+        <h1>IRMANDADE DA ADAGA NEGRA I LITERAMIGA</h1>
+        <p>#irmandadedaadaganegra </p>
+    </div>
+
+    <!-- código omitido -->
+</section>
+
+.chamada-texto {
+    margin-right: 20px;
+}
+font-family: "Chakra Petch", sans-serif;
+
+body {
+    color: white;
+    background: black;
+    margin: 0px;
+    font-family: "Chakra Petch", sans-serif;
+  }
+
+
+
+
+  body {
+    color: white;
+    background: black;
+    margin: 0px;
+    font-family: "Chakra Petch", sans-serif;
+  }
+  
+  header {
+    border-bottom: solid 2px rgba(150, 30, 3, 0.964);
+    padding: 20px;
+    font-size: 32px;
+    color: rgb(21, 22, 22);
+  }
+  
+  section {
+    background: rgb(154, 3, 3);
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+  }
+  
+  .chamada-texto {
+    margin-right: 5%;
+  }
+  
+  h1 {
+    font-size: 40px;
+  }
+  
+  p {
+    font-size: 20px;
+  }
+
+
+  
